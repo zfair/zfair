@@ -1,3 +1,8 @@
+# Deployment
+
+deploy/volumes/
+*_secret.txt
+
 # IDEs, editors, etc.
 .idea/
 .vscode/
